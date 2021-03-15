@@ -5,4 +5,5 @@ that we assisted the board of election in Colorado with the election audit. With
 
 # Election Audit Results
 Total Votes
+
 ![IMG_2207](https://user-images.githubusercontent.com/79114781/111089020-5192c700-8500-11eb-881e-44e8d1077c96.jpg)
